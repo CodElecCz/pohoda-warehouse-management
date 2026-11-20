@@ -1,12 +1,16 @@
-# [WarehouseUIv1](https://codeleccz.github.io/CameraUIv1/)
+# WarehouseUIv1
 
-Warehouse management for accounting program POHODA.
+Warehouse management application designed as an extension to the POHODA accounting system.
+
+Articles: [Česky](blog/index.cs.md) | [English](blog/index.en.md) | [Website - CS](https://codeleccz.github.io/blog/sklad-pohoda/) | [Website - EN](https://codeleccz.github.io/en/blog/sklad-pohoda/)
+
+The application imports stock items, suppliers, and warehouses from POHODA. It supports goods receipts and issues, stock movement history, item variants, and configurable warehouse positions.
 
 Software:
 - Qt 5.11.2
 - [Pohoda](https://www.stormware.cz/)
 
-### User Interface
+## User interface
 
-![Warehouse01 GUI](https://codeleccz.github.io/WarehouseUIv1/screenshots/warehouse01.png)
-![Warehouse02 GUI](https://codeleccz.github.io/WarehouseUIv1/screenshots/warehouse02.png)
+![Warehouse application interface](screenshots/warehouse01.png)
+![Warehouse application interface in dark mode](screenshots/warehouse02.png)
