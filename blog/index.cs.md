@@ -83,5 +83,3 @@ Aplikace podporuje také tmavý režim.
 ## Soubory ke stažení
 
 - [Zdrojový kód a soubory aplikace](https://github.com/CodElecCz/pohoda-warehouse-management)
-
-Vychází z článku [Ing. Radomíra Turči](https://www.codelec.cz/me-prispevky/sklad-pohoda).

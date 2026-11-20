@@ -83,5 +83,3 @@ The application also supports dark mode.
 ## Downloads
 
 - [Source code and application files](https://github.com/CodElecCz/pohoda-warehouse-management)
-
-Based on the article by [Ing. Radomír Turča](https://www.codelec.cz/me-prispevky/sklad-pohoda).
